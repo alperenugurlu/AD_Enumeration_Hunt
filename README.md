@@ -36,10 +36,7 @@ The toolkit is intended for use by penetration testers, red teamers, and securit
 
 The AD Pentesting Toolkit is for educational and testing purposes only. The authors and contributors are not responsible for any misuse or damage caused by the use of these scripts. Always ensure that you have proper authorization and permission before performing any penetration testing or security assessment activities on any system or network.
 
-## Contributors
 
-Everyone is looking at what you are looking at; But can everyone see what he can see? You are the only difference between them…
-By Mevlânâ Celâleddîn-i Rûmî
 
 ## License
 
@@ -58,4 +55,7 @@ This project is licensed under the [MIT License](LICENSE). The Mewtwo ASCII art 
 />
 <img src="https://github-readme-stats.vercel.app/api?username=alperenugurlu&show_icons=true" />
 </picture>
+
+Everyone is looking at what you are looking at; But can everyone see what he can see? You are the only difference between them…
+By Mevlânâ Celâleddîn-i Rûmî
 
