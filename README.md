@@ -11,6 +11,12 @@ The toolkit is intended for use by penetration testers, red teamers, and securit
 
 ## Features
 
+
+
+https://github.com/alperenugurlu/AD_Enumeration_Hunt/assets/64872731/e7d3eb87-d5c5-4641-bd1e-71917c105fe6
+
+
+
 - Enumerate and gather information about AD domains, users, groups, and computers.
 - Check trust relationships between domains.
 - List all objects inside a specific Organizational Unit (OU).
